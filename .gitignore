@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+data/uploaded_files/*
+!data/uploaded_files/.gitkeep
+.streamlit/
+scratch/
